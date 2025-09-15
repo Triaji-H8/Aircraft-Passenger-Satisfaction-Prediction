@@ -53,7 +53,7 @@ Tahapan yang dilakukan meliputi:
 
 ## Stacks
 
-- **Bahasa Pemrograman**: Python 3
+- **Bahasa Pemrograman**: Python 3.9
 - **Environment**: VSCode, Conda
 - **Library Utama**:
   - Data handling: pandas, numpy
@@ -61,13 +61,4 @@ Tahapan yang dilakukan meliputi:
   - Machine Learning: scikit-learn
   - Model persistence: cloudpickle, joblib
 
-## Reference
-`Bagian ini berisi link pendukung seperti referensi, dashboard, atau deployment`
 
----
-
-**Referensi tambahan:**
-- [Basic Writing and Syntax on Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Contoh readme](https://github.com/fahmimnalfrzki/Swift-XRT-Automation)
-- [Another example](https://github.com/sanggusti/final_bangkit) (**Must read**)
-- [Additional reference](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
