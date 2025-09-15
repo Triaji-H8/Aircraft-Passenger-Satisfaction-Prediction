@@ -4,7 +4,7 @@
 
 1. README.md - Penjelasan gambaran umum project
 2. notebook.ipynb - Notebook yang berisi pembuatan model prediksi
-3. notebook_inf.ipynb - Notebook yang berisi inferensi data pada environment di luar permodelan
+3. notebook_inference.ipynb - Notebook yang berisi inferensi data pada environment di luar permodelan
 
 ## Problem Background
 
